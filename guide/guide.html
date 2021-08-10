@@ -4,14 +4,16 @@
 <body>
 	<style>
 		.dropdown {
-                                 position:fixed;
+                                 position:relative;
                                  top:5px;
-                                 right:5px;
-                                 background-color:HoneyDew;
-                                 padding:5px 5px 5px 5px;
-                                 border-style:solid;
-                                 border-color:LightGray;
                       }
+		
+		.img {
+			
+			float:right;
+			width:25%;
+			height:auto;
+		}
 		
 	</style>
   
@@ -23,13 +25,13 @@
     </div>
     
     <div class="resources">
-      <p>I have always had a knack for online personal investigations. 
-        Over my lifetime, many people in my life have asked me to uncover records of their past lives by doing deep online searches.
-        During this work, I've stumbled across many sites that publicize our personal information without our knowledge. My goal is to spread knowledge of these sites
+      <p>I have always had a knack for online investigation. 
+        Over my lifetime, many people have asked me to uncover records of their past lives by doing deep online searches.
+        During this work, I've stumbled across many sites that publicize our personal information without our knowledge. My goal is to spread awareness of these sites
         and empower people to monitor the data posted about them online. Below are some of the sites I feel everyone should know about.
         <br>
         <br>
-        **Disclaimer: this site represents findings from work funded by a $400 Grant from  <a href="https://contributionproject.cornell.edu/">Cornell's Contribution Project</a></p>
+        **Disclaimer: this guide represents findings from work funded by a $400 Grant from  <a href="https://contributionproject.cornell.edu/">Cornell's Contribution Project</a></p>
       
       <ul>
         <li><p><a href="https://www.mylife.com">MyLife.com</a><br>
@@ -47,7 +49,7 @@
     
     <div class="img">
       <img src="mylife.png"
-           alt="mylife result">
+           alt="mylife">
       <p>A MyLife.com result for my deceased grandfather.</p>
       
     </div>
@@ -57,13 +59,21 @@
   </div>
   
   <div class="dropdown">
-                      <button class="dropbtn">Pages</button>
-                      <div class="dropdown-content">
-                                  <a href="https://sterlcwc.github.io/index.html">Homepage</a>
-                                 <a href="https://sterlcwc.github.io/publications/pubs.html">Publications</a>
-                                 <a href="https://sterlcwc.github.io/press/index.html">Press Coverage</a>
-                                 <a href="https://sterlcwc.github.io/guide/guide.html"><b>Sites That Post Your Data</b></a>
-                       </div>
+                      <ul style="list-style-type:none;
+                                 margin:0;
+                                 padding:0;
+                                 text-align:center;
+                                 background-color:HoneyDew;
+                                 border-style:solid;
+                                 border-color:LightGray;
+                                 ">
+                                
+                                <li style="display:inline;padding-left:20px;padding-right:20px"><a href="https://sterlcwc.github.io/index.html">Homepage</a></li>
+                                 <li style="display:inline;padding-left:20px;padding-right:20px"><a href="https://sterlcwc.github.io/publications/pubs.html">Publications</a></li>
+                                 <li style="display:inline;padding-left:20px;padding-right:20px"><a href="https://sterlcwc.github.io/press/index.html">Press Coverage</a></li>
+                                 <li style="display:inline;padding-left:20px;padding-right:20px"><a href="https://sterlcwc.github.io/guide/guide.html"><b>Sites That Post Your Data</b></a></li>
+                       </ul>
+           </div>
    </div>
                       
 </body>
