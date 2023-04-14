@@ -1,3 +1,5 @@
+I forked this GitHub template from Martin Saveski - many thanks to him for all the work that went into creating it, and for letting others use it for free.
+
 # Martin Saveski's Website
 
 ## Updates guide
