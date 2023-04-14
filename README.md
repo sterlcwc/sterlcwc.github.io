@@ -1,4 +1,4 @@
-I forked this GitHub template from Martin Saveski - many thanks to him for all the work that went into creating it, and for letting others use it for free.
+I forked this GitHub template from Dr. Martin Saveski - many thanks to him for all the work that went into creating it, and for letting others use it for free.
 
 # Martin Saveski's Website
 
