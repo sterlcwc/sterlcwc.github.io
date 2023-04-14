@@ -1,14 +1,18 @@
 papers:
 
-  - title: "Engaging Politically Diverse Audiences on Social Media"
-    authors: "<b>Martin Saveski</b>, Doug Beeferman, David McClure, Deb Roy"
-    venue: "ICWSM'22: International AAAI Conference on Web and Social Media. 2022."
+  - title: "The Impact of Rank, Misinformation, and Warning Banners on Trust in Search Results: A Covid-19 Case Study"
+    authors: "Sterling C. Williams-Ceci, Michael W. Macy, Mor Naaman"
+    venue: "In progress"
+
+  - title: "Assessing gender bias in particle physics and social science recommendations for academic jobs"
+    authors: "<b>Robert H. Bernstein</b>, Michael W. Macy, Wendy M. Williams, Christopher J. Cameron McClure, Sterling C. Williams-Ceci, & Stephen J. Ceci"
+    venue: "Social Sciences (peer-reviewed journal)"
     paper_pdf: "/assets/publications/2022_newsbridge/paper.pdf"
     selected: y
 
   - title: "Combating Sharenting: Interventions to Alter Parents' Willingness to Post About Their Children Online"
-    authors: "<b>Sterling Williams-Ceci<sup>‡</sup></b>, Gillian Grose<sup>‡</sup>, Annika Pinch, Rene Kizilcec, Neil Lewis, Jr."
-    venue: "Computers in Human Behavior"
+    authors: "<b>Sterling C. Williams-Ceci<sup>‡</sup></b>, Gillian E. Grose<sup>‡</sup>, Annika C. Pinch, Rene F. Kizilcec, Neil A. Lewis, Jr."
+    venue: "Computers in Human Behavior (peer-reviewed journal)"
     paper_pdf: ""
     data: "https://osf.io/6buq7/?view_only=c833d30d39114890ad6ce79fdf218a2c"
     selected: y
