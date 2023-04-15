@@ -2,7 +2,9 @@ source:      .
 destination: ./_site
 includes:    ./_includes
 baseurl: /website
-siteurl: http://sterlcwc.github.io/website
+url: http://sterlcwc.github.io/website
+plugins:
+  - jekyll-sitemap
 
 collections:
   projects:
