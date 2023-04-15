@@ -364,7 +364,7 @@ form {
   box-sizing: border-box; }
 .u-max-full-width {
   max-width: 50%;
-  box-sizing: content-box; }
+  box-sizing: border-box; }
 .u-pull-right {
   float: right; }
 .u-pull-left {
