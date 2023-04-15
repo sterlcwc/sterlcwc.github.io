@@ -363,7 +363,7 @@ form {
   width: 100%;
   box-sizing: border-box; }
 .u-max-full-width {
-  max-width: 200%;
+  max-width: 150%;
   box-sizing: content-box; }
 .u-pull-right {
   float: right; }
