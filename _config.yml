@@ -3,8 +3,6 @@ destination: ./_site
 includes:    ./_includes
 baseurl: /website
 url: http://sterlcwc.github.io/website
-plugins:
-  - jekyll-sitemap
 
 collections:
   projects:
