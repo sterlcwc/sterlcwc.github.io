@@ -2,7 +2,7 @@ source:      .
 destination: ./_site
 includes:    ./_includes
 baseurl: /website
-url: http://sterlcwc.github.io
+url: http://sterlcwc.github.io/website
 
 collections:
   projects:
