@@ -1,19 +1,19 @@
 papers:
 
   - title: "The Impact of Rank, Misinformation, and Warning Banners on Trust in Search Results: A Covid-19 Case Study"
-    authors: "Sterling C. Williams-Ceci, Michael W. Macy, Mor Naaman"
-    venue: "In progress"
+    authors: "<b>Sterling Williams-Ceci</b>, Michael W. Macy, Mor Naaman"
+    venue: "Paper in progress"
     selected: y
 
   - title: "Assessing gender bias in particle physics and social science recommendations for academic jobs"
     authors: "Robert H. Bernstein, Michael W. Macy, Wendy M. Williams, Christopher J. Cameron, <b>Sterling C. Williams-Ceci</b>, & Stephen J. Ceci"
-    venue: "Social Sciences (peer-reviewed journal)"
+    venue: "Social Sciences, vol. 11, 2022"
     paper_pdf: "/assets/pub_pdfs/socsci-11-00074-v2.pdf"
     selected: y
 
   - title: "Combating Sharenting: Interventions to Alter Parents' Willingness to Post About Their Children Online"
-    authors: "<b>Sterling C. Williams-Ceci</b>, Gillian E. Grose<sup>‡</sup>, Annika C. Pinch<sup>‡</sup>, Rene F. Kizilcec, Neil A. Lewis, Jr."
-    venue: "Computers in Human Behavior (peer-reviewed journal)"
+    authors: "<b>Sterling Williams-Ceci</b>, Gillian E. Grose<sup>‡</sup>, Annika C. Pinch<sup>‡</sup>, Rene F. Kizilcec, Neil A. Lewis, Jr."
+    venue: "Computers in Human Behavior, vol. 125, 2021"
     paper_pdf: "/assets/pub_pdfs/1-s2.0-S0747563221002624-main-2.pdf"
     data: "https://osf.io/6buq7/?view_only=c833d30d39114890ad6ce79fdf218a2c"
     selected: y
