@@ -97,8 +97,7 @@ h4 {
     width: 100%; }
   .navbar-list {
     list-style: none;
-    margin-bottom: 0; 
-    margin-right: 50px;}
+    margin-bottom: 0; }
   .navbar-item {
     position: relative;
     float: left;
@@ -108,7 +107,7 @@ h4 {
     font-size: 11px;
     font-weight: 600;
     letter-spacing: .2rem;
-    margin-right: 35px;
+    margin-right: 100px;
     text-decoration: none;
     line-height: 6.5rem;
     color: #222; }
