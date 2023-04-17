@@ -5,11 +5,9 @@ papers:
     venue: "Under Review (2023)"
     selected: y
     
-   - title: "'Is Reporting Worth the Sacrifice of Revealing What I've Sent?' Privacy Considerations When Reporting on End-to-End Encrypted Platforms"
+  - title: "'Is Reporting Worth the Sacrifice of Revealing What I've Sent?' Privacy Considerations When Reporting on End-to-End Encrypted Platforms"
     authors: "Leijie Wang, Ruotong Wang, Sanketh Menda, <b>Sterling Williams-Ceci</b>, Amy X. Zhang"
     venue: "Under Review (2023)"
-    paper_pdf: ""
-    data: ""
     selected: y
 
   - title: "Assessing gender bias in particle physics and social science recommendations for academic jobs"
