@@ -2,7 +2,14 @@ papers:
 
   - title: "The Impact of Rank, Misinformation, and Warning Banners on Trust in Search Results: A Covid-19 Case Study"
     authors: "<b>Sterling Williams-Ceci</b>, Michael W. Macy, Mor Naaman"
-    venue: "Paper in progress"
+    venue: "Under Review (2023)"
+    selected: y
+    
+   - title: "'Is Reporting Worth the Sacrifice of Revealing What I've Sent?' Privacy Considerations When Reporting on End-to-End Encrypted Platforms"
+    authors: "Leijie Wang, Ruotong Wang, Sanketh Menda, <b>Sterling Williams-Ceci</b>, Amy X. Zhang"
+    venue: "Under Review (2023)"
+    paper_pdf: ""
+    data: ""
     selected: y
 
   - title: "Assessing gender bias in particle physics and social science recommendations for academic jobs"
@@ -15,5 +22,12 @@ papers:
     authors: "<b>Sterling Williams-Ceci</b>, Gillian E. Grose<sup>‡</sup>, Annika C. Pinch<sup>‡</sup>, Rene F. Kizilcec, Neil A. Lewis, Jr."
     venue: "Computers in Human Behavior, vol. 125, 2021"
     paper_pdf: "/assets/pub_pdfs/1-s2.0-S0747563221002624-main-2.pdf"
+    data: "https://osf.io/6buq7/?view_only=c833d30d39114890ad6ce79fdf218a2c"
+    selected: y
+    
+  - title: "Combating Sharenting: Interventions to Alter Parents' Willingness to Post About Their Children Online"
+    authors: "<b>Sterling Williams-Ceci</b>, Gillian E. Grose<sup>‡</sup>, Annika C. Pinch<sup>‡</sup>, Rene F. Kizilcec, Neil A. Lewis, Jr."
+    venue: "Society for Research in Child Development Biennial Meeting (SRCD), 2021"
+    paper_pdf: ""
     data: "https://osf.io/6buq7/?view_only=c833d30d39114890ad6ce79fdf218a2c"
     selected: y
