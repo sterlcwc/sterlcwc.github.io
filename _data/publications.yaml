@@ -6,7 +6,7 @@ papers:
     selected: y
     
   - title: "'Is Reporting Worth the Sacrifice of Revealing What I've Sent?' Privacy Considerations When Reporting on End-to-End Encrypted Platforms"
-    authors: "Leijie Wang, Ruotong Wang, Sanketh Menda, <b>Sterling Williams-Ceci</b>, Amy X. Zhang"
+    authors: "Leijie Wang, Ruotong Wang, <b>Sterling Williams-Ceci</b>, Sanketh Menda, Amy X. Zhang"
     venue: "Under Review (2023)"
     selected: y
 
