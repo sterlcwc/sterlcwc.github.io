@@ -2,12 +2,13 @@ papers:
 
   - title: "The Impact of Rank, Misinformation, and Warning Banners on Trust in Search Results: A Covid-19 Case Study"
     authors: "<b>Sterling Williams-Ceci</b>, Michael W. Macy, Mor Naaman"
-    venue: "In Progress (2023)"
+    venue: "Under Review"
+    prereg: "https://osf.io/n2b3s/?view_only=83906969185c4ef9b9ff26e07c2162e9"
     selected: y
     
   - title: "'Is Reporting Worth the Sacrifice of Revealing What I've Sent?' Privacy Considerations When Reporting on End-to-End Encrypted Platforms"
     authors: "Leijie Wang, Ruotong Wang, <b>Sterling Williams-Ceci</b>, Sanketh Menda, Amy X. Zhang"
-    venue: "Under Review (2023)"
+    venue: "Under Review"
     selected: y
 
   - title: "Assessing gender bias in particle physics and social science recommendations for academic jobs"
@@ -20,12 +21,15 @@ papers:
     authors: "<b>Sterling Williams-Ceci</b>, Gillian E. Grose<sup>‡</sup>, Annika C. Pinch<sup>‡</sup>, Rene F. Kizilcec, Neil A. Lewis, Jr."
     venue: "Computers in Human Behavior, vol. 125, 2021"
     paper_pdf: "/assets/pub_pdfs/1-s2.0-S0747563221002624-main-2.pdf"
-    data: "https://osf.io/6buq7/?view_only=c833d30d39114890ad6ce79fdf218a2c"
+    data: "https://osf.io/6buq7/?view_only=90947ec4c2bd45cc8c2b7cdad7c8d87c"
+    prereg: "https://osf.io/6buq7/?view_only=90947ec4c2bd45cc8c2b7cdad7c8d87c"
     selected: y
     
   - title: "Combating Sharenting: Interventions to Alter Parents' Willingness to Post About Their Children Online"
     authors: "<b>Sterling Williams-Ceci</b>, Gillian E. Grose<sup>‡</sup>, Annika C. Pinch<sup>‡</sup>, Rene F. Kizilcec, Neil A. Lewis, Jr."
     venue: "Society for Research in Child Development Biennial Meeting (SRCD), 2021"
     paper_pdf: ""
-    data: "https://osf.io/6buq7/?view_only=c833d30d39114890ad6ce79fdf218a2c"
+    data: "https://osf.io/6buq7/?view_only=90947ec4c2bd45cc8c2b7cdad7c8d87c"
+    prereg: "https://osf.io/6buq7/?view_only=90947ec4c2bd45cc8c2b7cdad7c8d87c"
     selected: y
+    award: "Top 1% of Posters Exemplifying Interdisciplinary Research"
