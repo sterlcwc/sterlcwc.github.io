@@ -8,7 +8,7 @@ papers:
     
   - title: "'Is Reporting Worth the Sacrifice of Revealing What I've Sent?' Privacy Considerations When Reporting on End-to-End Encrypted Platforms"
     authors: "Leijie Wang, Ruotong Wang, <b>Sterling Williams-Ceci</b>, Sanketh Menda, Amy X. Zhang"
-    venue: "Under Review at Symposium on Usable Privacy and Security (SOUPS), 2023"
+    venue: "Symposium on Usable Privacy and Security (SOUPS), 2023"
     selected: y
 
   - title: "Assessing gender bias in particle physics and social science recommendations for academic jobs"
