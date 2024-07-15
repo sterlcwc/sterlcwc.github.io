@@ -8,10 +8,10 @@ papers:
     selected: y
     video: "https://vod.video.cornell.edu/media/Sterling+Williams-Ceci/1_o7lsjeb2/339333952"
 
-  - title: "Trustworthiness Evaluations of Search Results: The Impact of Rank and Misinformation"
+  - title: "Misinformation does not reduce trust in accurate search results, but warning banners may backfire"
     authors: "<b>Sterling Williams-Ceci</b>, Michael W. Macy, Mor Naaman"
-    venue: "Under Review, 2024"
-    paper_pdf: "/assets/pub_pdfs/arxiv_searchtrust.pdf"
+    venue: "Scientific Reports, 2024"
+    paper_pdf: "https://www.nature.com/articles/s41598-024-61645-8"
     prereg: "https://osf.io/n2b3s/?view_only=83906969185c4ef9b9ff26e07c2162e9"
     selected: y
     
