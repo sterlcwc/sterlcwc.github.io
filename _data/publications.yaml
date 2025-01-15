@@ -1,6 +1,5 @@
 papers:
 
-
   - title: "Bias in AI Autocomplete Suggestions Leads to Attitude Shift on Societal Issues"
     authors: "<b>Sterling Williams-Ceci</b>, Maurice Jakesch, Advait Bhat, Kowe Kadoma, Lior Zalmanson, Mor Naaman"
     venue: "Under Review, 2024"
@@ -17,7 +16,7 @@ papers:
     selected: y
 
  - title: "AI Content Moderators are Perceived as Less Trustworthy and Effective when Using Emotional Arguments to Debunk Misinformation"
-    authors: "Benjamin Silver, Sterling Williams-Ceci, Mor Naaman"
+    authors: "Benjamin Silver, <b>Sterling Williams-Ceci<\b>, Mor Naaman"
     venue: "Under Review, 2024"
     selected: n
     
