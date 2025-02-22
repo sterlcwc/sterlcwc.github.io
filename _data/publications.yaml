@@ -15,10 +15,10 @@ papers:
     prereg: "https://osf.io/n2b3s/?view_only=83906969185c4ef9b9ff26e07c2162e9"
     selected: y
 
-  - title: "AI Content Moderators are Perceived as Less Trustworthy and Effective when Using Emotional Arguments to Debunk Misinformation"
+  - title: "AI is Perceived as Less Trustworthy and Less Effective when Using Emotional Arguments to Moderate Misinformation"
     authors: "Benjamin Silver, <b>Sterling Williams-Ceci</b>, Mor Naaman"
-    venue: "Under Review, 2024"
-    selected: n
+    venue: "Extended Abstract of the CHI 2025 Conference on Human Factors in Computing Systems"
+    selected: y
     
   - title: "'Is Reporting Worth the Sacrifice of Revealing What I've Sent?' Privacy Considerations When Reporting on End-to-End Encrypted Platforms"
     authors: "Leijie Wang, Ruotong Wang, <b>Sterling Williams-Ceci</b>, Sanketh Menda, Amy X. Zhang"
