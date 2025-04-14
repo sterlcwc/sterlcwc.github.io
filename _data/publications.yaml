@@ -2,11 +2,23 @@ papers:
 
   - title: "Biased AI Writing Assistants Shift Users’ Attitudes on Societal Issues"
     authors: "<b>Sterling Williams-Ceci</b>, Maurice Jakesch, Advait Bhat, Kowe Kadoma, Lior Zalmanson, Mor Naaman"
-    venue: "Under Review, 2025"
+    venue: "Revise & Resubmit at Science Advances"
     prereg: "https://osf.io/74znc/?view_only=211e2772539046e3bc3718ec33b2a030"
     paper_pdf: "https://osf.io/preprints/psyarxiv/mhjn6"
     selected: y
     video: "https://vod.video.cornell.edu/media/Sterling+Williams-Ceci/1_o7lsjeb2/339333952"
+
+  - title: "What I wish I knew when I switched fields for my PhD"
+    authors: "<b>Sterling Williams-Ceci</b>"
+    venue: "Nature Human Behaviour, 2025"
+    paper_pdf: ""
+    selected: y
+
+  - title: "Bring Wisdom into AI Education (Before It's Too Late)"
+    authors: "<b>Sterling Williams-Ceci</b>, Wendy M. Williams"
+    venue: "Under Review at Roeper Review"
+    paper_pdf: "https://osf.io/preprints/psyarxiv/9v5pe_v3"
+    selected: n
 
   - title: "Misinformation does not reduce trust in accurate search results, but warning banners may backfire"
     authors: "<b>Sterling Williams-Ceci</b>, Michael W. Macy, Mor Naaman"
