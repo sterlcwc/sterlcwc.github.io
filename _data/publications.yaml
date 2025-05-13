@@ -11,6 +11,7 @@ papers:
   - title: "What I wish I knew when I switched fields for my PhD"
     authors: "<b>Sterling Williams-Ceci</b>"
     venue: "Nature Human Behaviour, 2025"
+    paper_pdf: "https://www.nature.com/articles/s41562-025-02214-5"
     selected: y
 
   - title: "Bring Wisdom into AI Education (Before It's Too Late)"
