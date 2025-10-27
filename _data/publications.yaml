@@ -1,10 +1,17 @@
 papers:
 
+  - title: "Anthropomorphic AI Chatbots Reinforce the Credibility of a Sexist Stereotype Among Conservative Women"
+    authors: "<b>Sterling Williams-Ceci</b>, Rachel H. Minkowitz, Lior Zalmanson, Michael W. Macy, Mor Naaman"
+    venue: "In preparation"
+    prereg: "https://osf.io/j958d/?view_only=89de4af6e6874ad0939540e000fda295"
+    paper_pdf: "https://osf.io/preprints/psyarxiv/eqjsg_v2"
+    selected: y
+
   - title: "Biased AI Writing Assistants Shift Users’ Attitudes on Societal Issues"
     authors: "<b>Sterling Williams-Ceci</b>, Maurice Jakesch, Advait Bhat, Kowe Kadoma, Lior Zalmanson, Mor Naaman"
     venue: "Revise & Resubmit at Science Advances"
     prereg: "https://osf.io/74znc/?view_only=211e2772539046e3bc3718ec33b2a030"
-    paper_pdf: "https://osf.io/preprints/psyarxiv/mhjn6"
+    paper_pdf: "https://osf.io/preprints/psyarxiv/mhjn6_v3"
     selected: y
     video: "https://vod.video.cornell.edu/media/Sterling+Williams-Ceci/1_o7lsjeb2/339333952"
 
