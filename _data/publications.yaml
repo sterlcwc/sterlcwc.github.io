@@ -2,7 +2,7 @@ papers:
 
   - title: "Anthropomorphic AI Chatbots Reinforce the Credibility of a Sexist Stereotype Among Conservative Women"
     authors: "<b>Sterling Williams-Ceci</b>, Rachel H. Minkowitz, Lior Zalmanson, Michael W. Macy, Mor Naaman"
-    venue: "In preparation; also accepted as a single presenter talk at SPSP '26 (72 accepted/almost 600 submissions, ~12% acceptance rate)"
+    venue: "Under submission; accepted as a single presenter talk at SPSP 2026 (72 accepted/almost 600 submissions, ~12% acceptance rate)"
     prereg: "https://osf.io/j958d/?view_only=89de4af6e6874ad0939540e000fda295"
     paper_pdf: "https://osf.io/preprints/psyarxiv/eqjsg_v2"
     selected: y
@@ -24,8 +24,8 @@ papers:
 
   - title: "Bring Wisdom into AI Education (Before It's Too Late)"
     authors: "<b>Sterling Williams-Ceci</b>, Wendy M. Williams"
-    venue: "Under Review at Roeper Review"
-    paper_pdf: "https://osf.io/preprints/psyarxiv/9v5pe_v3"
+    venue: "Roeper Review, 2025"
+    paper_pdf: "https://doi.org/10.1080/02783193.2025.2593014"
     selected: n
 
   - title: "Misinformation does not reduce trust in accurate search results, but warning banners may backfire"
@@ -34,11 +34,12 @@ papers:
     paper_pdf: "https://www.nature.com/articles/s41598-024-61645-8"
     prereg: "https://osf.io/n2b3s/?view_only=83906969185c4ef9b9ff26e07c2162e9"
     selected: y
+    press: "https://news.cornell.edu/stories/2024/05/most-people-trust-accurate-search-results-when-stakes-are-high"
 
   - title: "AI is Perceived as Less Trustworthy and Less Effective when Using Emotional Arguments to Moderate Misinformation"
     authors: "Benjamin Silver, <b>Sterling Williams-Ceci</b>, Mor Naaman"
     venue: "Extended Abstract of the CHI 2025 Conference on Human Factors in Computing Systems"
-    selected: y
+    selected: n
     
   - title: "'Is Reporting Worth the Sacrifice of Revealing What I've Sent?' Privacy Considerations When Reporting on End-to-End Encrypted Platforms"
     authors: "Leijie Wang, Ruotong Wang, <b>Sterling Williams-Ceci</b>, Sanketh Menda, Amy X. Zhang"
@@ -53,17 +54,8 @@ papers:
 
   - title: "Combating Sharenting: Interventions to Alter Parents' Willingness to Post About Their Children Online"
     authors: "<b>Sterling Williams-Ceci</b>, Gillian E. Grose<sup>‡</sup>, Annika C. Pinch<sup>‡</sup>, Rene F. Kizilcec, Neil A. Lewis, Jr."
-    venue: "Computers in Human Behavior, vol. 125, 2021"
+    venue: "Computers in Human Behavior, 2021; also accepted at SRCD 2021 and awarded as a Top 1% of posters exemplifying interdisciplinary research in child development"
     paper_pdf: "/assets/pub_pdfs/1-s2.0-S0747563221002624-main-2.pdf"
     data: "https://osf.io/6buq7/?view_only=90947ec4c2bd45cc8c2b7cdad7c8d87c"
     prereg: "https://osf.io/6buq7/?view_only=90947ec4c2bd45cc8c2b7cdad7c8d87c"
     selected: y
-    
-  - title: "Combating Sharenting: Interventions to Alter Parents' Willingness to Post About Their Children Online"
-    authors: "<b>Sterling Williams-Ceci</b>, Gillian E. Grose<sup>‡</sup>, Annika C. Pinch<sup>‡</sup>, Rene F. Kizilcec, Neil A. Lewis, Jr."
-    venue: "Society for Research in Child Development Biennial Meeting (SRCD), 2021"
-    paper_pdf: ""
-    data: "https://osf.io/6buq7/?view_only=90947ec4c2bd45cc8c2b7cdad7c8d87c"
-    prereg: "https://osf.io/6buq7/?view_only=90947ec4c2bd45cc8c2b7cdad7c8d87c"
-    selected: y
-    award: "Top 1% of Posters Exemplifying Interdisciplinary Research"
