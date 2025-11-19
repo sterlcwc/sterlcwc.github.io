@@ -48,14 +48,14 @@ papers:
 
   - title: "Assessing gender bias in particle physics and social science recommendations for academic jobs"
     authors: "Robert H. Bernstein, Michael W. Macy, Wendy M. Williams, Christopher J. Cameron, <b>Sterling C. Williams-Ceci</b>, & Stephen J. Ceci"
-    venue: "Social Sciences, vol. 11, 2022"
-    paper_pdf: "/assets/pub_pdfs/socsci-11-00074-v2.pdf"
+    venue: "Social Sciences"
+    paper_pdf: "https://www.mdpi.com/2076-0760/11/2/74"
     selected: y
 
   - title: "Combating Sharenting: Interventions to Alter Parents' Willingness to Post About Their Children Online"
     authors: "<b>Sterling Williams-Ceci</b>, Gillian E. Grose<sup>‡</sup>, Annika C. Pinch<sup>‡</sup>, Rene F. Kizilcec, Neil A. Lewis, Jr."
     venue: "Computers in Human Behavior, 2021; also accepted at SRCD 2021 and awarded as a Top 1% of posters exemplifying interdisciplinary research in child development"
-    paper_pdf: "/assets/pub_pdfs/1-s2.0-S0747563221002624-main-2.pdf"
+    paper_pdf: "https://www.sciencedirect.com/science/article/pii/S0747563221002624?via%3Dihub"
     data: "https://osf.io/6buq7/?view_only=90947ec4c2bd45cc8c2b7cdad7c8d87c"
     prereg: "https://osf.io/6buq7/?view_only=90947ec4c2bd45cc8c2b7cdad7c8d87c"
     selected: y
