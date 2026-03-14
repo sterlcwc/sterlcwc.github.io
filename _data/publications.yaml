@@ -1,20 +1,20 @@
 papers:
 
-  - title: "Anthropomorphic AI Chatbots Reinforce the Credibility of a Sexist Stereotype Among Conservative Women"
+  - title: "Humanlike AI Chatbots Can Strengthen Women's Belief in Sexist Stereotypes"
     authors: "<b>Sterling Williams-Ceci</b>, Rachel H. Minkowitz, Lior Zalmanson, Michael W. Macy, Mor Naaman"
-    venue: "Under submission; accepted as a single presenter talk at SPSP 2026 (72 accepted/almost 600 submissions, ~12% acceptance rate)"
+    venue: "Under submission; accepted as a single presenter talk at SPSP 2026 (72 accepted/almost 600 submissions, ~12% acceptance rate); accepted as a poster at APS 2026 and APS 2025"
     prereg: "https://osf.io/j958d/?view_only=89de4af6e6874ad0939540e000fda295"
     paper_pdf: "https://osf.io/preprints/psyarxiv/eqjsg_v2"
     selected: y
 
   - title: "Biased AI Writing Assistants Shift Users’ Attitudes on Societal Issues"
     authors: "<b>Sterling Williams-Ceci</b>, Maurice Jakesch, Advait Bhat, Kowe Kadoma, Lior Zalmanson, Mor Naaman"
-    venue: "Accepted in Principle at Science Advances; covered by Gary Marcus in his Substack blog with 85K+ subscribers (see Press Coverage)"
+    venue: "Science Advances, 2026"
     prereg: "https://osf.io/74znc/?view_only=211e2772539046e3bc3718ec33b2a030"
-    paper_pdf: "https://osf.io/preprints/psyarxiv/mhjn6_v3"
+    paper_pdf: "https://www.science.org/doi/10.1126/sciadv.adw5578"
     selected: y
     video: "https://vod.video.cornell.edu/media/Sterling+Williams-Ceci/1_o7lsjeb2/339333952"
-    press: "https://garymarcus.substack.com/p/elon-musks-terrifying-vision-for?r=8tdk6&utm_campaign=post&utm_medium=web&triedRedirect=true"
+    press: "https://www.nature.com/articles/d41586-026-00781-9"
 
   - title: "What I wish I knew when I switched fields for my PhD"
     authors: "<b>Sterling Williams-Ceci</b>"
@@ -23,7 +23,7 @@ papers:
     selected: y
 
   - title: "Bring Wisdom into AI Education (Before It's Too Late)"
-    authors: "<b>Sterling Williams-Ceci</b>, Wendy M. Williams"
+    authors: "<b>Sterling Williams-Ceci</b> & Wendy M. Williams"
     venue: "Roeper Review, 2026"
     paper_pdf: "https://doi.org/10.1080/02783193.2025.2593014"
     selected: y
