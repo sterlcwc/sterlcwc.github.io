@@ -2,7 +2,7 @@ papers:
 
   - title: "Humanlike AI Chatbots Can Strengthen Women's Belief in Sexist Stereotypes"
     authors: "<b>Sterling Williams-Ceci</b>, Rachel H. Minkowitz, Lior Zalmanson, Michael W. Macy, Mor Naaman"
-    venue: "Under submission; accepted as a single presenter talk at SPSP 2026 (72 accepted/almost 600 submissions, ~12% acceptance rate); accepted as a poster at APS 2026 and APS 2025"
+    venue: "Under submission; accepted as a talk at SPSP 2026 (72 accepted/almost 600 submissions, ~12% acceptance rate) and as a poster at APS 2026 & APS 2025"
     prereg: "https://osf.io/j958d/?view_only=89de4af6e6874ad0939540e000fda295"
     paper_pdf: "https://osf.io/preprints/psyarxiv/eqjsg_v2"
     selected: y
@@ -26,7 +26,7 @@ papers:
     authors: "<b>Sterling Williams-Ceci</b> & Wendy M. Williams"
     venue: "Roeper Review, 2026"
     paper_pdf: "https://doi.org/10.1080/02783193.2025.2593014"
-    selected: y
+    selected: n
 
   - title: "Misinformation does not reduce trust in accurate search results, but warning banners may backfire"
     authors: "<b>Sterling Williams-Ceci</b>, Michael W. Macy, Mor Naaman"
