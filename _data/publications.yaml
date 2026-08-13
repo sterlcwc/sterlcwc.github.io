@@ -1,8 +1,13 @@
 papers:
-
+  - title: "AI Overviews Reduce Search Result Engagement & May Influence Attitude Polarization"
+    authors: "Saloni Dash, Yiwei Xu, Lei Cai, <b>Sterling Williams-Ceci</b>, Wang Liao, Emma Spiro"
+    venue: "Revise & Resubmit at Science Advances"
+    paper_pdf: "https://osf.io/preprints/psyarxiv/u2pbg_v1"
+    selected: y
+    
   - title: "Humanlike AI May Strengthen Women's Belief in Sexist Stereotypes"
     authors: "<b>Sterling Williams-Ceci</b>, Rachel H. Minkowitz, Lior Zalmanson, Michael W. Macy, Mor Naaman"
-    venue: "Under review at Journal of Experimental Social Psychology; presented at SPSP 2026 (12% acceptance rate), APS 2025, & APS 2026"
+    venue: "Under submission; presented at SPSP 2026 (12% acceptance rate), APS 2025, & APS 2026"
     prereg: "https://osf.io/j958d/?view_only=89de4af6e6874ad0939540e000fda295"
     paper_pdf: "https://osf.io/preprints/psyarxiv/eqjsg_v5"
     selected: y
